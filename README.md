@@ -31,7 +31,7 @@ Python（Tkinter + pandas）で実装されています。
 
 ※ UTF-8 / Shift-JIS どちらでも読み込み可能（BOM付き保存）
 
-<img width="986" height="831" alt="datafilter" src="https://github.com/user-attachments/assets/c32f275f-d3d0-48f7-94b0-94a964dc713c" />
+<img width="600" height="600" alt="datafilter" src="https://github.com/user-attachments/assets/c32f275f-d3d0-48f7-94b0-94a964dc713c" />
 
 
 ---
